@@ -3,7 +3,7 @@ Repositorio de actividades semillero PredictPath 2026ii
 
 ## Sesiones 2026ii
 | Fecha | Temática |
----
+| ----- | -------- |
 | 8/25/2026 | Introduccion al semillero |
 | 9/1/2026 | Visualización espacial |
 | 9/8/2026 | Conceptos básicos patología digital |
