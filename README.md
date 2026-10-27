@@ -1,10 +1,10 @@
-# Semillero_2026ii
-Repositorio de actividades semillero PredictPath 2026ii
+# Semillero PredictPath 2026 II
+Este es el repositorio de actividades del semillero PredictPath para el 2026 ii
 
 ## Sesiones 2026ii
 | Fecha | Temática |
 | ----- | -------- |
-| 8/25/2026 | Introduccion al semillero |
+| 8/25/2026 | [Introduccion al semillero](https://pres-predictpath2026.netlify.app/) |
 | 9/1/2026 | Visualización espacial |
 | 9/8/2026 | Conceptos básicos patología digital |
 | 9/15/2026 | Avance1 - miniproyectos |
