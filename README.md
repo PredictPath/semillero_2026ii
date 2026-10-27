@@ -13,5 +13,6 @@ Repositorio de actividades semillero PredictPath 2026ii
 | 10/6/2026 | [Gaussian mixture models](notebooks/notebook_clustering.ipynb) |
 | 10/13/2026 | [Backpropagation](notebooks/backpropagation-predictpath.ipynb) |
 | 10/20/2026 | Avance Miniproyecto 2 |
+| 10/27/2026 | [Introducción a las ómicas espaciales](notebooks/intro_omicas_espaciales_def.ipynb) |
 ---
 
